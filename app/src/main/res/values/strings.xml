@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calendario</string>
+    <string name="tab_calendar">Calendario</string>
+    <string name="tab_search">Cerca</string>
+    <string name="add_event">Nuova attività</string>
+    <string name="title_hint">Titolo attività</string>
+    <string name="desc_hint">Descrizione (facoltativa)</string>
+    <string name="pick_date">Data</string>
+    <string name="pick_time">Ora</string>
+    <string name="save">Salva</string>
+    <string name="delete">Elimina</string>
+    <string name="cancel">Annulla</string>
+    <string name="search_hint">Cerca per titolo, descrizione…</string>
+    <string name="filter_color">Filtra per colore</string>
+    <string name="all_colors">Tutti</string>
+    <string name="sync_code_hint">Codice condiviso (es. famiglia-2026)</string>
+    <string name="sync_connect">Connetti</string>
+    <string name="sync_title">Sincronizzazione dispositivi</string>
+    <string name="no_events">Nessuna attività in questo giorno.</string>
+    <string name="no_results">Nessun risultato.</string>
+</resources>

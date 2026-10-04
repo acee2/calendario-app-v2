@@ -1,0 +1,40 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="bg">#000000</color>
+    <color name="surface">#121212</color>
+    <color name="surface2">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="accent">#FFFFFF</color>
+
+    <!-- 8 colori attività -->
+    <color name="ev_red">#EF4444</color>
+    <color name="ev_orange">#F97316</color>
+    <color name="ev_yellow">#EAB308</color>
+    <color name="ev_green">#22C55E</color>
+    <color name="ev_blue">#3B82F6</color>
+    <color name="ev_violet">#8B5CF6</color>
+    <color name="ev_pink">#EC4899</color>
+    <color name="ev_cyan">#06B6D4</color>
+
+    <array name="event_colors">
+        <item>@color/ev_red</item>
+        <item>@color/ev_orange</item>
+        <item>@color/ev_yellow</item>
+        <item>@color/ev_green</item>
+        <item>@color/ev_blue</item>
+        <item>@color/ev_violet</item>
+        <item>@color/ev_pink</item>
+        <item>@color/ev_cyan</item>
+    </array>
+    <array name="event_color_names">
+        <item>Rosso</item>
+        <item>Arancione</item>
+        <item>Giallo</item>
+        <item>Verde</item>
+        <item>Blu</item>
+        <item>Viola</item>
+        <item>Rosa</item>
+        <item>Azzurro</item>
+    </array>
+</resources>
